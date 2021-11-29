@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Let\'s Share</string>
+    <string name="vamos_rachar">Let\'s Share!</string>
+    <string name="total_a_rachar">Total to share!</string>
+    <string name="total_de_pessoas">Total people!</string>
+    <string name="resultado">R$ 0,00</string>
+    <string name="dinheiro_total">Total money</string>
+    <string name="pessoas">People</string>
+    <string name="compartilhar">Share</string>
+    <string name="volume">Volume</string>
+</resources>
